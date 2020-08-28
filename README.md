@@ -1,2 +1,2 @@
 # hello-world
-This is a place where the author shares things with the world.
+My name is Jobelle, a newbie in this array of things.
